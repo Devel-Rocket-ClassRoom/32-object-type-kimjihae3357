@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodingPractice\CodingPractice.csproj" />
+  <Project Path="GameItem\GameItem.csproj" />
+  <Project Path="DataPrinter\DataPrinter.csproj" />
+</Solution>
